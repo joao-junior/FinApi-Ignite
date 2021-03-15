@@ -1,4 +1,3 @@
-# oque foi desenvolvido na API
 ## FinApi - Financeira
 
 ---
